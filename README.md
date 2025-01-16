@@ -1,12 +1,8 @@
 Project 1 - Recipe Page
-Phase 1 - Create structure with HTML
-Languages
-HTML
-Frameworks
-None
+Phase 1 - Create structure with HTML -Languages -HTML 
 
 Primary Goals
-Learning to use main HTML elements such as <h1></h1>, <div></div>, <ul></ul>, <ol></ol>, <li></li> <p></p>, <img>, etc.
+Learning to use main HTML elements 
 Basic CSS, like rules for divs and IDs or implementing CSS elements like background color
 Understanding working with different containers
 Using GitHub to commit and push code, plus making a branch
