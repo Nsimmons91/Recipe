@@ -1,0 +1,18 @@
+body{
+        background: rgb(232, 209, 180)
+        
+      }
+      
+            p {
+                color: rgb(48, 41, 41);
+            }
+
+            h2 {
+                color: rgb(47, 36, 36);  
+            } 
+            
+            h1{
+                color:rgb(37, 23, 23);
+                font-family: "sans-serif", "consolas";
+                font-style: italic; }
+            
