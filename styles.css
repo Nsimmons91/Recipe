@@ -2,7 +2,22 @@ body{
         background: rgb(232, 209, 180)
         
       }
+      .description{
+        width: 600px;
+        margin: 0 auto;
+      }
       
+      .left{
+        width: 600px;
+        float: left;
+        margin-right: 20px;
+      }
+      .right {
+        width: 600px ;
+        float: left;
+        margin-left: 20px ;
+
+      }
             p {
                 color: rgb(48, 41, 41);
                 .description 
