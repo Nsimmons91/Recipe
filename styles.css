@@ -2,9 +2,12 @@ body{
         background: rgb(232, 209, 180)
         
       }
+      .top{
+        
+      }
       .description{
         width: 600px;
-        margin: 0 auto;
+        margin-left 20px;
       }
       
       .left{
