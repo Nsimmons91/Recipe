@@ -1,7 +1,11 @@
 body{
-        background: rgb(232, 209, 180)
-        
-      }
+  background: rgb(219, 196, 169)
+  }
+
+    .navbar-custom{
+      background-color: rgb(222, 197, 150);
+    }
+
       .top{
         
       }
