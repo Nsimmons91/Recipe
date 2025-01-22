@@ -1,14 +1,27 @@
-body {
-  background: rgb(219, 196, 169);
+body{
+  background: rgb(226, 201, 173);
   }
-
-    .navbar-custom { 
-      background-color: rgb(222, 197, 150);
+#myBox{
+  background-color: rgb(146, 107, 78);
+  width: 400px;
+  height: 300px;
+  font-size: 20rem;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+    .navbar-custom{ 
+      background-color: rgb(73, 66, 53);
     }
 
       .top{
-        
       }
+
+      .checked {
+        text-decoration: line-through;
+      }
+
       .description{
         width: 600px;
         margin-left 20px;
@@ -23,10 +36,9 @@ body {
         width: 600px ;
         float: left;
         margin-left: 20px ;
-
       }
             p {
-                color: rgb(48, 41, 41);
+                color: rgb(30, 23, 23);
                 .description 
             }
 
@@ -34,7 +46,7 @@ body {
                 color: rgb(47, 36, 36);  
             } 
             
-            h1{
+            h1 {
                 color:rgb(37, 23, 23);
                 font-family: "sans-serif", "consolas";
                 font-style: italic; }
