@@ -1,20 +1,18 @@
 body{
   background: rgb(226, 201, 173);
   }
+
 #myBox{
   background-color: rgb(146, 107, 78);
-  width: 400px;
-  height: 300px;
-  font-size: 20rem;
+  width: 100px;
   font-weight: bold;
   display: flex;
   align-items: center;
-  text-align: center;
+  text-align: right;
 }
-    .navbar-custom{ 
-      background-color: rgb(73, 66, 53);
-    }
-
+  #myButton{
+    font-size: 1rem;
+  }
       .top{
       }
 
