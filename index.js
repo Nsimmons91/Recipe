@@ -37,28 +37,28 @@ myButton.addEventListener("mouseover", event => {
 },);
 
 myButton.addEventListener("mouseout", event => {
-    myBox.style.backgroundColor = "brown";
+    myBox.style.backgroundColor = "beige";
     myBox.textContent = "Mmm Mmm Good!";
 });
 
 
 
-//const myUlLi = document.getElementById("myUli");
+const myDiv = document.getElementById("myDiv");
 
-//let checkbox = document.createElement("input");
+let checkbox = document.createElement("input");
 
-//checkbox.type = "checkbox";
-//checkbox.name = "name";
-//checkbox.value = "value";
-//checkbox.id = "id";
+checkbox.type = "checkbox";
+checkbox.name = "packersOff";
+checkbox.value = "1";
+checkbox.class = "strikethrough";
 
-//var label = document.createElement("label");
+var label = document.createElement("label");
 
-//label.htmlFor = "id";
+label.htmlFor = "id";
 
-//label.appendChild(
- //   document.createTextNode("This create the laabel for checkbox.")
-//);
+label.appendChild(
+   document.createTextNode("This create the laabel for checkbox.")
+);
 
-//myUlLi.appendChild(checkbox);
-//myUlLi.appendChild(label);
+myDiv.appendChild(checkbox);
+myDiv.appendChild(label);
