@@ -1,0 +1,2 @@
+phase 2 was fine until i added in the bootstrap css link which is phase 3
+with the link my css stylesheet seemed to no longer work(backgound color deleted, font colors, )
